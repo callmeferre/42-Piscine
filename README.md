@@ -6,5 +6,10 @@ These are all the works I did during the C Piscine of July 2021 at [42Madrid](ht
 
 ---
 
-###Shell00
-[![Shell00 score](https://badge42.herokuapp.com/api/project/acastril/c_piscine_shell_00)](https://github.com/JaeSeoKim/badge42)
+###Shell 00
+Score 85/100
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO
+
+###Shell 01
+Score 100/100
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
