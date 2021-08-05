@@ -10,12 +10,10 @@ These are all the works I did during the C Piscine of July 2021 at [42Madrid](ht
 ```diff
 + Score 85/100
 ```
-<br></br>
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO <br></br>
 
 ### Shell 01
 ```diff
 + Score 100/100 
 ```
-<br></br>
 ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK <br></br>
