@@ -7,4 +7,4 @@ These are all the works I did during the C Piscine of July 2021 at [42Madrid](ht
 ---
 
 ###Shell00
-[![Shell00 score](https://badge42.herokuapp.com/api/project/acastril/shell00)](https://github.com/JaeSeoKim/badge42)
+[![Shell00 score](https://badge42.herokuapp.com/api/project/acastril/C_Piscine_Shell_00)](https://github.com/JaeSeoKim/badge42)
