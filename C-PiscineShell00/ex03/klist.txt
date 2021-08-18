@@ -1,0 +1,5 @@
+Credentials cache: API:7EDE55E5-86B6-4F61-9953-AE31EC5F73A0
+        Principal: acastril@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 16:49:39 2021  Jun 22 02:49:39 2021  krbtgt/42MADRID.COM@42MADRID.COM
